@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishwarya510
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning REACTJS
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ishwaryap53@gmail.com
 
